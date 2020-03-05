@@ -1,0 +1,111 @@
+@CHARSET "ISO-8859-1";
+#head{
+	
+	color:white;
+	margin-top:10px;
+	padding-top:10px;
+	margin-left:100px;
+	font-size:40px;
+	text-transform: uppercase;
+}
+.header
+{
+    background-image: url("images/header.jpg");
+    height:70px;
+    width:1350px;
+           
+ }
+.menu1
+{
+	 height:50px;
+     width:1350px;
+     background-color:lightblue;
+     
+}   
+.logo
+{
+	color:white;
+	margin-top:10px;
+	padding-top:10px;
+	margin-left:10px;
+	font-size:20px;
+	text-transform: uppercase;
+}
+#logindiv
+{
+	background-color:rgb(255,255,255);
+	margin-left:520px;
+	margin-top:70px;
+	width:300px;
+	height:300px;
+	border-style: outset;
+}
+.loginbox
+{
+width:200px;
+height:30px;
+margin-top:30px;
+margin-left:40px;
+text-align:center;
+font-size:20px;
+border-style: outset;
+	
+}
+.loginbutton
+{
+	width:100px;
+height:35px;
+margin-left:100px;
+margin-top:60px;	
+}
+.menu2
+{
+display:inline-block;
+font-size:20px;
+float:right;
+
+padding:20px;
+padding-top:10px;
+
+} 
+
+.bd
+{
+	background-color:rgb(230,230,250);
+	overflow:scroll;
+}   
+.welcome
+{
+	text-align:center;
+}   
+#last-block
+{
+	margin-top:50px;
+} 
+.admintable
+{
+	margin-top:170px;
+	margin-left:150px;
+
+	height:185px;
+	background-color:white;
+	border-style: outset;
+	border-color: white grey lightgray white;
+	border-right: lightgray;
+}
+
+.adminbutton
+{
+	margin-left:30px;
+	margin-right:25px;
+	width:150px;
+	height:80px;
+	background-color:lightcyan;
+	color: black;
+	border-style: outset;
+	font-size:20px;
+	
+}
+a:link { 
+            text-decoration: none; 
+        } 
